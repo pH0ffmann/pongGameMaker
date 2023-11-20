@@ -1,9 +1,5 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-
-vspeed = -velocidadeRaquete	
-
-
-
-
-
+if(global.two_players) {
+	vspeed = -velocidadeRaquete	
+}

@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Pong",
   "resources": [
+    {"id":{"name":"scr_inicia","path":"scripts/scr_inicia/scr_inicia.yy",},"order":0,},
     {"id":{"name":"snd_hit_ball","path":"sounds/snd_hit_ball/snd_hit_ball.yy",},"order":0,},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":1,},
     {"id":{"name":"spr_raquete","path":"sprites/spr_raquete/spr_raquete.yy",},"order":0,},
