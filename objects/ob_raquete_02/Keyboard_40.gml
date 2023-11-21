@@ -3,3 +3,4 @@
 if (global.two_players) {
 	vspeed = velocidadeRaquete	
 }
+
