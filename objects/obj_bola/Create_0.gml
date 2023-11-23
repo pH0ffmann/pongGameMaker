@@ -5,7 +5,7 @@ incrementoVelocidade = .2
 
 speed = 0
 //Fazendo o alarme ativar após o tempo determinado
-alarm[0] = 150
+alarm[0] = 120
 
 //Mudando a seed do jogo para gerar um número aleatorio
 randomise()
