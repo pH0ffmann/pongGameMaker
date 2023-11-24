@@ -7,3 +7,4 @@ global.two_players = false
 global.velBall = 0
 global.pontosPlayer1 = 0
 global.pontosPlayer2 = 0
+global.quantidadeMaxGol = 2
