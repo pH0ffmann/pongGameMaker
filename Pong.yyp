@@ -7,6 +7,7 @@
     {"id":{"name":"snd_hit_ball","path":"sounds/snd_hit_ball/snd_hit_ball.yy",},"order":0,},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":1,},
     {"id":{"name":"obj_botaoJogar","path":"objects/obj_botaoJogar/obj_botaoJogar.yy",},"order":6,},
+    {"id":{"name":"obj_botaoModoJogo","path":"objects/obj_botaoModoJogo/obj_botaoModoJogo.yy",},"order":7,},
     {"id":{"name":"spr_botao2_strip2","path":"sprites/spr_botao2_strip2/spr_botao2_strip2.yy",},"order":1,},
     {"id":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},"order":4,},
     {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},"order":5,},

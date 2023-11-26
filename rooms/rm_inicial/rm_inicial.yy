@@ -22,6 +22,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_408E83E4_1","properties":[],"isDnd":false,"objectId":{"name":"obj_colission","path":"objects/obj_colission/obj_colission.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":21.34375,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":-64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_23D1438B_1","properties":[],"isDnd":false,"objectId":{"name":"obj_colission","path":"objects/obj_colission/obj_colission.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":21.34375,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":768.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_36CFC08E","properties":[],"isDnd":false,"objectId":{"name":"obj_botaoJogar","path":"objects/obj_botaoJogar/obj_botaoJogar.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.6481481,"scaleY":1.3902439,"imageIndex":0,"imageSpeed":0.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":549.0,"y":480.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7D6E756B","properties":[],"isDnd":false,"objectId":{"name":"obj_botaoModoJogo","path":"objects/obj_botaoModoJogo/obj_botaoModoJogo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.6523811,"scaleY":1.3932927,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":816.9096,"y":480.7248,},
       ],"visible":true,"depth":-100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_3832C176_1","spriteId":{"name":"spr_rosto","path":"sprites/spr_rosto/spr_rosto.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":-128.0,},
@@ -38,6 +39,7 @@
     {"name":"inst_36176054_1","path":"rooms/rm_inicial/rm_inicial.yy",},
     {"name":"inst_2DD18728_1","path":"rooms/rm_inicial/rm_inicial.yy",},
     {"name":"inst_36CFC08E","path":"rooms/rm_inicial/rm_inicial.yy",},
+    {"name":"inst_7D6E756B","path":"rooms/rm_inicial/rm_inicial.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
