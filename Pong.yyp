@@ -6,11 +6,14 @@
     {"id":{"name":"scr_inicia","path":"scripts/scr_inicia/scr_inicia.yy",},"order":0,},
     {"id":{"name":"snd_hit_ball","path":"sounds/snd_hit_ball/snd_hit_ball.yy",},"order":0,},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":1,},
+    {"id":{"name":"obj_botaoJogar","path":"objects/obj_botaoJogar/obj_botaoJogar.yy",},"order":6,},
+    {"id":{"name":"spr_botao2_strip2","path":"sprites/spr_botao2_strip2/spr_botao2_strip2.yy",},"order":1,},
     {"id":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},"order":4,},
     {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},"order":5,},
     {"id":{"name":"spr_raquete","path":"sprites/spr_raquete/spr_raquete.yy",},"order":0,},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"order":2,},
     {"id":{"name":"obj_raquete_01","path":"objects/obj_raquete_01/obj_raquete_01.yy",},"order":0,},
+    {"id":{"name":"rm_inicial","path":"rooms/rm_inicial/rm_inicial.yy",},"order":1,},
     {"id":{"name":"spr_colission","path":"sprites/spr_colission/spr_colission.yy",},"order":0,},
     {"id":{"name":"spr_rosto","path":"sprites/spr_rosto/spr_rosto.yy",},"order":1,},
     {"id":{"name":"obj_colission","path":"objects/obj_colission/obj_colission.yy",},"order":3,},
@@ -36,6 +39,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_inicial","path":"rooms/rm_inicial/rm_inicial.yy",},},
     {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
   ],
   "Folders": [

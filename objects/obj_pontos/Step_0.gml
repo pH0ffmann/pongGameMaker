@@ -8,7 +8,6 @@ if (global.pontosPlayer1 >= global.quantidadeMaxGol) {
 	
 	//Reiniciando o jogo
 	game_restart()
-	
 }
 else if (global.pontosPlayer2 >= global.quantidadeMaxGol){
 	show_message("Jogador 2 ganhou")
